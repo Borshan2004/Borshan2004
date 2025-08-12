@@ -3,12 +3,6 @@
   Welcome to Borshan Purification profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Borshan2004/count.svg"/>
-  </div> 
-</p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student;Programmer+Solver;Always+learning+new+things" alt="Typing SVG" /></a>
