@@ -21,14 +21,11 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty of Computers & Informatics](#) at [ABCD University](#).
-- :trophy: 3x `ACPC` Finalist.
+- :school: I am a `CSE Undergrad` in NORTH SOUTH UNIVERCITY .
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](#).
 <be>
 
 <!-- Competitive Programming Profiles --> 
@@ -39,7 +36,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/borshan2004?theme=nord&font=Salsa&ext=activity) 
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="[https://codeforces.com/profile/7oSkaaa](https://codeforces.com/profile/Borshan2004)"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
